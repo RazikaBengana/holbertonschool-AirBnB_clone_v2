@@ -268,7 +268,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 <br>
 <br>
 
-![Client side](README-images/client_side.png)
+![MySQL](README-images/my_sql.png)
 
 <br>
 <br>
