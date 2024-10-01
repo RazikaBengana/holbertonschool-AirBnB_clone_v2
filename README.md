@@ -278,7 +278,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 <br>
 <br>
 
-[![HBNB - Storage abstraction](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dfb2zxES7ROU)](https://www.youtube.com/watch?v=fb2zxES7ROU)
+[![`HBNB` - Storage abstraction](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dfb2zxES7ROU)](https://www.youtube.com/watch?v=fb2zxES7ROU)
 
 <br>
 <br>
