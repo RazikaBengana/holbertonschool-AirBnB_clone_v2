@@ -52,7 +52,7 @@
 <br>
 The programs implement an Object-Relational Mapping (`ORM`) system using `SQLAlchemy`, defining models for various entities like `users`, `places`, `cities`, and `amenities`, with the ability to switch between file-based storage and database storage.
 <br>
-This version emphasizes backend data management and storage, laying the groundwork for more advanced features in future iterations of the AirBnB clone project.
+This version emphasizes **backend data management** and **storage**, laying the groundwork for more advanced features in future iterations of the AirBnB clone project.
 <br>
 <br>
 This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how to build a fully functional web application.
