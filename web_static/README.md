@@ -46,7 +46,7 @@
 
 <div align="center">
 
-**`AirBnB clone - web static`** project focuses on creating the front-end structure and styling of the simplified AirBnB clone website.
+**`AirBnB clone - web static`** project focuses on creating the **front-end structure** and styling of the simplified AirBnB clone website.
 <br>
 <br>
 The `HTML` files in the `/web_static` directory define the basic layout and content of the web pages, including headers, footers, filters, and place listings.
