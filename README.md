@@ -283,7 +283,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 <br>
 <br>
 
-### Comments for your SQL file:
+### Comments for your `SQL` file:
 
 <br>
 
