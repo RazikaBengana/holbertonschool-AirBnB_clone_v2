@@ -121,7 +121,7 @@ Environment variables will be your best friend for this project!
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -287,7 +287,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 
 <br>
 
-```yaml
+```sql
 $ cat my_script.sql
 -- first 3 students in the Batch ID=3
 -- because Batch 3 is the best!
@@ -343,7 +343,7 @@ $
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
